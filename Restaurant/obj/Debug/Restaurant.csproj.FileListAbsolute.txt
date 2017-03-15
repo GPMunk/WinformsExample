@@ -8,3 +8,13 @@ C:\Users\gmunk\documents\visual studio 2017\Projects\Restaurant\Restaurant\obj\D
 C:\Users\gmunk\documents\visual studio 2017\Projects\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.GenerateResource.Cache
 C:\Users\gmunk\documents\visual studio 2017\Projects\Restaurant\Restaurant\obj\Debug\Restaurant.exe
 C:\Users\gmunk\documents\visual studio 2017\Projects\Restaurant\Restaurant\obj\Debug\Restaurant.pdb
+C:\Projects\WinformsExample\Restaurant\bin\Debug\Restaurant.exe
+C:\Projects\WinformsExample\Restaurant\bin\Debug\Restaurant.pdb
+C:\Projects\WinformsExample\Restaurant\bin\Debug\RestaurantLibrary.dll
+C:\Projects\WinformsExample\Restaurant\bin\Debug\RestaurantLibrary.pdb
+C:\Projects\WinformsExample\Restaurant\obj\Debug\Restaurant.csprojResolveAssemblyReference.cache
+C:\Projects\WinformsExample\Restaurant\obj\Debug\Restaurant.OrderForm.resources
+C:\Projects\WinformsExample\Restaurant\obj\Debug\Restaurant.Properties.Resources.resources
+C:\Projects\WinformsExample\Restaurant\obj\Debug\Restaurant.csproj.GenerateResource.Cache
+C:\Projects\WinformsExample\Restaurant\obj\Debug\Restaurant.exe
+C:\Projects\WinformsExample\Restaurant\obj\Debug\Restaurant.pdb
