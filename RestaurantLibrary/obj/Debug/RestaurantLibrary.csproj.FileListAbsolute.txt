@@ -1,0 +1,5 @@
+C:\Users\gmunk\documents\visual studio 2017\Projects\Restaurant\RestaurantLibrary\bin\Debug\RestaurantLibrary.dll
+C:\Users\gmunk\documents\visual studio 2017\Projects\Restaurant\RestaurantLibrary\bin\Debug\RestaurantLibrary.pdb
+C:\Users\gmunk\documents\visual studio 2017\Projects\Restaurant\RestaurantLibrary\obj\Debug\RestaurantLibrary.csprojResolveAssemblyReference.cache
+C:\Users\gmunk\documents\visual studio 2017\Projects\Restaurant\RestaurantLibrary\obj\Debug\RestaurantLibrary.dll
+C:\Users\gmunk\documents\visual studio 2017\Projects\Restaurant\RestaurantLibrary\obj\Debug\RestaurantLibrary.pdb
